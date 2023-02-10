@@ -47,7 +47,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: #3F721D;
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -167,6 +167,7 @@ a.source:visited {
 h1 {
   margin: 0;
   font-size: 1.5em;
+  color: #3F721D
 }
 
 h2 {
