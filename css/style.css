@@ -1,7 +1,7 @@
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "Helvetica", sans-serif;
+  font-family: 'Anton', sans-serif;
   overflow: hidden;
 }
 
@@ -9,7 +9,7 @@ body {
   height: 200px;
   width: 100vw;
   position: absolute;
-  border-bottom: 3px solid orange;
+  border-bottom: 3px solid green;
   top: 0;
   left: 0;
 }
@@ -47,7 +47,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: #3F721D;
+  background-color: yellow;
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -55,6 +55,7 @@ body {
   visibility: hidden;
   font-weight: bold;
   text-align: center;
+  font-family: "Gajraj One", cursive;
 }
 
 .chapter-container {
@@ -105,7 +106,7 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: gray;
+  color: green;
 }
 a.source:visited {
   color: grey;
@@ -160,14 +161,14 @@ a.source:visited {
 #header {
   padding: 5px 0;
   text-align: center;
-  color: #333;
+  color: #yellow;
 }
 
 /* Storymap title & subtitle */
 h1 {
   margin: 0;
   font-size: 1.5em;
-  color: #3F721D
+  color: #yellow
 }
 
 h2 {
